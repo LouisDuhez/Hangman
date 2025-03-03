@@ -1,10 +1,26 @@
-# Hangman
+🎮 Hangman - Jeu du Pendu
+Bienvenue dans ce projet React du jeu du Pendu ! 🕹️
 
-Voici un projet en React du jeu du Pendu.
+🛠️ Fonctionnement
+Ce projet est une implémentation du célèbre jeu du Pendu, développée avec React. Il utilise une API externe pour gérer les mots à deviner et l'état de la partie.
 
-Merci à alexischarp-education pour l'API
+🔗 API utilisée
+Un grand merci à alexischarp-education pour la mise à disposition de l'API.
 
-Lien vers l'API : https://github.com/alexischarp-education/node-hangman-api
+👉 Lien vers l'API : https://github.com/alexischarp-education/node-hangman-api
 
-Pour pouvoir lancer le jeux il faut lancer l'API en local comme montrer dans le README de : https://github.com/alexischarp-education/node-hangman-api
-Ensuite il faut juste lancer le jeu et bonne chance ! 
+🚀 Installation et exécution
+Pour jouer, voici les étapes à suivre :
+
+1. Clone le dépôt de l'API :
+
+git clone https://github.com/alexischarp-education/node-hangman-api.git
+
+Suis les instructions du README de l'API pour l'exécuter localement.
+
+2. Lancer le jeu :
+
+npm install
+npm run dev
+
+3.  Jouer et s'amuser ! 🎉
