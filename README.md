@@ -1,4 +1,5 @@
 🎮 Hangman - Jeu du Pendu
+
 Bienvenue dans ce projet React du jeu du Pendu ! 🕹️
 
 🛠️ Fonctionnement
