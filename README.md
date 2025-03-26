@@ -22,6 +22,7 @@ Suis les instructions du README de l'API pour l'exécuter localement.
 2. Lancer le jeu :
 
 npm install
+
 npm run dev
 
 3.  Jouer et s'amuser ! 🎉
